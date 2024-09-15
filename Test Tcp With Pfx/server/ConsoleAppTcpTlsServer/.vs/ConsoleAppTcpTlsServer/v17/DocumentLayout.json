@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test Tcp With Pfx\\server\\ConsoleAppTcpTlsServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86343AAC-9CAA-449E-B3AF-DDFB50DE9A9D}|ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer.csproj|d:\\test tcp with pfx\\server\\consoleapptcptlsserver\\consoleapptcptlsserver\\tcpclientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343AAC-9CAA-449E-B3AF-DDFB50DE9A9D}|ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer.csproj|solutionrelative:consoleapptcptlsserver\\tcpclientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343AAC-9CAA-449E-B3AF-DDFB50DE9A9D}|ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer.csproj|d:\\test tcp with pfx\\server\\consoleapptcptlsserver\\consoleapptcptlsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343AAC-9CAA-449E-B3AF-DDFB50DE9A9D}|ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer.csproj|solutionrelative:consoleapptcptlsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:627205715:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpClientApp.cs",
+              "DocumentMoniker": "D:\\Test Tcp With Pfx\\server\\ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer\\TcpClientApp.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTcpTlsServer\\TcpClientApp.cs",
+              "ToolTip": "D:\\Test Tcp With Pfx\\server\\ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer\\TcpClientApp.cs",
+              "RelativeToolTip": "ConsoleAppTcpTlsServer\\TcpClientApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:52:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test Tcp With Pfx\\server\\ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTcpTlsServer\\Program.cs",
+              "ToolTip": "D:\\Test Tcp With Pfx\\server\\ConsoleAppTcpTlsServer\\ConsoleAppTcpTlsServer\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTcpTlsServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:50:37.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
